@@ -17,7 +17,7 @@ function InputDepoimentos(props) {
         <input
             name={props.name}
             type={props.type}
-            className='input-depoimentos'
+            className={props.inputClasse}
             placeholder={props.placeholder}
             onChange={validaCampo}
         />

@@ -8,28 +8,28 @@ p{
     align-items: center;
     flex-direction: column;
 }
+
 .imagem-embaixada{
   width: 30%;
-  
-
 }
+
 .section-embaixadas{
   margin-top: 130px;
 }
-.div-imagem-embaixada{
- 
-  display: flex;
+
+.div-imagem-embaixada{ 
+   display: flex;
     flex-direction: column;
     align-items: center;
 }
+
 .div-imagem-embaixada h2{
   width: 50%;
   text-align: center;
 }
 
 .geral{
-  width: 90%;
-  /* max-width: 1000px; */
+  width: 90%;  
   margin: 0 auto;
 }
 
@@ -40,7 +40,7 @@ p{
 }
 
 .subtitulo{
-  width: 50%;
+  
   margin:0 auto;
   text-align: center;
 }
@@ -80,9 +80,12 @@ p{
   width: 100%;
   text-align: center;
   font-size: 14px;
+
+
 }
   h2{
     color:  #1e4613;
+    text-align: center;
 }
 
 .numero-destaque{
@@ -102,5 +105,12 @@ p{
     flex-direction: column;
     
   }
-}
 
+  .embaixadas{
+    width: 90%;
+  }
+
+  .orgaos-publicos{
+    width: 90%;
+  }
+}

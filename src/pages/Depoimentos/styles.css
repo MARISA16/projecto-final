@@ -4,12 +4,14 @@
     margin-top: 130px;
     align-items: center;
     justify-content: center;
-}
-
-.titulo-depoimentos p{
+    padding: 10px;
     font-size: 24px;
 }
 
+.compartilhar{
+    text-align: center;
+    font-size: 20px;
+}
 
 .depoimento-marisa{
     display: flex;
@@ -34,11 +36,16 @@
 
 
 .mostra-depoimentos{
-    margin: 15px;
+    margin: 50px;
     padding: 15px;
     color:black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
     /* font-weight: 700; */
 }
+
 
 .imagem-depoimento{
     width: 40%;
@@ -46,7 +53,8 @@
 
 .formulário{
     width: 70%;
-    }
+}
+
 
 .div-input{
     display: flex;
@@ -54,14 +62,27 @@
     align-items: center;
     justify-content: center;
     margin-top: 100px;
-    font-size: 24px;
+    font-size: 24px;    
 }
 
-.input-depoimentos{
-    margin-top: 30px;
+.input-depoimentos{    
     height: 150px;
+    width: 60%;    
+    text-align: justify;
+}
+
+.input-nome{
     width: 60%;
-    text-align: center;
+    height: 35px;
+
+}
+
+
+label{
+    font-size: 16px;
+    margin-top: 30px;
+    margin-bottom: 5px;  
+    text-align: start;
 }
 
 .container-btn{
@@ -77,6 +98,26 @@
     background-color: #1e4613;
     color: #fff8dc;
 }
+
+
+.div-map{
+    margin-top: 30px;
+    width: 40%;   
+    border: 1px double  #1e4613;
+   padding: 5px  15px;
+}
+
+.depoimentos-texto{
+    font-size: 1rem;
+    width: 100%;
+    text-align: justify;
+}
+
+.depoimentos-nome{
+    font-size: 0.8rem;
+    font-style: italic;
+}
+
 
 @media(max-width: 620px){
 
@@ -96,12 +137,10 @@
     .imagem-depoimento{
         width: 70%;
     }
+
+    .div-map{      
+        width: 90%;          
+    }
     
 
 }
-
-
-
-
-
-
