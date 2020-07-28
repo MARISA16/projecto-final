@@ -2,6 +2,15 @@
     margin: 0 auto;
 }
 
+.titulo-dicas{
+    color: #1e4613;
+    margin: 0 auto;
+     margin-top: 140px;
+     width: 85%;
+     text-align: center;
+ }
+    
+
 .conteudo{
    width: 100vw;
    margin: 0 auto;
@@ -12,20 +21,18 @@
 }
 
 .texto{
-    width:65vw;
+    width:80vw;
     text-align: justify;
+    font-size: 24px;
 }
 
-.titulo-dicas{
-   color: #1e4613;
-    margin-top: 140px;
-    width: 85%;
-    text-align: center;
+.imagem{
+  width: 90% ;  
 }
-    
+
+ 
 .imagem-dicas{
-    max-width: 900px;
-    border-radius: 5px;
+    max-width: 100%;    
 }
 
 .titulo-geral{
@@ -36,7 +43,7 @@
 }
 
 .imagens-dicas-geral{
-   width: 40vw;
+   width: 60vw;
    margin: 0 auto;
    height:300px ;
    object-fit: cover;
@@ -62,5 +69,3 @@
     }
     
   }
-
-

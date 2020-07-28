@@ -1,9 +1,9 @@
 .paragrafo-sobrenos{
-    width: 100%;
-    max-width: 1000px;
+    width: 90%;    
     margin: 0 auto;
     margin-top: 130px;
     text-align: justify;
+    font-size: 16px;
 }
 h1{
     text-align: center;
@@ -16,7 +16,6 @@ h1{
     display: flex;
     justify-content: space-around;
 }
-
 
 .contato{
     text-align: left;
@@ -40,7 +39,7 @@ h1{
 }
 
 @media(max-width:620px){
-    .sobre-nos{
+    .imagem-contato{
       flex-direction: column;
       align-items: center;
       justify-content: center;
