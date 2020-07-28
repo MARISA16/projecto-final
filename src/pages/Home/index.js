@@ -24,7 +24,7 @@ class Home extends Component {
 
                         <div className='div-resumo'>
                             <h1>Guia do Kamba</h1>
-                            <p> Guia do Kamba surge pelas necessidades de prestações de serviços para os imigrantes do Continente Africano, em especial dos países da Comunidades dos Países da Língua Portuguesa (CPLP) que chegaram ou que estão pensando em vir para Brasil para estudar ou morar. O propósito da página é de AJUDAR nas informações que possam orientar com dicas, Serviços Úteis, Empregos, e Histórias compartilhadas. </p>
+                            <p> Guia do Kamba surge pelas necessidades de prestações de serviços para os imigrantes do Continente Africano, em especial dos países da Comunidades dos Países da Língua Portuguesa (CPLP) que chegaram ou que estão pensando em vir para Brasil para estudar ou morar. O propósito do site é de AJUDAR nas informações que possam orientar com dicas, Serviços Úteis, Empregos, e Histórias compartilhadas. </p>
 
                         </div>
                     </div>
