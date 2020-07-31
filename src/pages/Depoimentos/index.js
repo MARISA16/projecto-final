@@ -77,7 +77,7 @@ class Depoimentos extends React.Component {
                         <p>Outro ponto que gostaria relatar sobre minha trajetória é que eu tive mais coragem e esperança de seguir em frente com os objetivos que me trouxeram para Brasil. Conheci muitas pessoas que não suportaram viver em outro país, seja pelo clima, ou pelo racismo, ou simplesmente pela infraestrutura da cidade. Eu consegui perseverar na busca da formação adequada, me tornando uma cidadã melhor, crítica e participativa afim de ajudar minha família e o meu povo. Desde sempre sou entusiasta dos estudos. Aprendi fazer novas amizades, novas culturas e me adaptei e readaptei na sociedade que é muito diferente da minha.</p>
                         <p>Em suma, agradeço ao governo brasileiro pela oportunidade concedida para realizar o sonho da formação superior e abrir a porta para outras coisas.
                     </p>
-                        <span className='meu-depoimento'>Marisa de Fátima Humba António, de Angola</span>
+                        <span className='meu-deponpm imento'>Marisa de Fátima Humba António, de Angola</span>
 
 
                     </div>
