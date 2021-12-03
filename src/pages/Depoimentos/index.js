@@ -42,6 +42,8 @@ class Depoimentos extends React.Component {
         this.setState({
             textoNovo: novoDepoimento,
             nameNovo: novoNome,
+            
+
         })
 
         const lista = {
