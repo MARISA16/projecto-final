@@ -28,9 +28,9 @@ function Sobre() {
                         <div>
                             <h2 className='contato'>Contato:</h2>
                             <ul>
-                                <li><a href='mailto:marisa2014antnio@outlook.com' target="_blank">
+                                <li><a href='mailto:marisa2014antniomarisa@outlook.com' target="_blank">
                                 <img  className='icon'src={iconEmail }></img>
-                                    <span>marisa2014antnio@outlook.com </span>
+                                    <span>marisa2014antniomarisa@outlook.com </span>
 
                                 </a></li>
                                 <li><a href='https://www.linkedin.com/in/marisa-ant%C3%B3nio/' target="_blank">
